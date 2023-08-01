@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Almendra+Display:regular);
 
 
+
 * {
     padding: 0;
     margin: 0;
@@ -404,6 +405,7 @@ textarea {
 }
 
 .nps-span-btn {
+    font-family: "Helvetica", sans-serif;
     padding: 19px 90px;
     font-weight: 400;
     font-size: 24px;
@@ -1525,7 +1527,7 @@ textarea {
     }
 
     .nps-form__transfer::after {
-        right: 62%;
+        right: 61%;
     }
 
     .nps-form__carry::after {
