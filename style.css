@@ -91,8 +91,8 @@ span {
 } */
 
 .nps-header__brand img, .nps-header__logo img {
-    width: 118px;
-    height: 41px;
+    width: 138px;
+    height: 53px;
 }
 
 .nps-header__title {
@@ -895,6 +895,11 @@ textarea {
         margin-left: 38px;
     }
 
+    .nps-header__brand img, .nps-header__logo img {
+        width: 108px;
+        height: 46px;
+    }
+
     /* .nps-header__logo svg {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1227,6 +1232,11 @@ textarea {
     .nps-header__label {
         left: 78%;
         bottom: -60%;
+    }
+
+    .nps-header__brand img, .nps-header__logo img {
+        width: 74px;
+        height: 36px;
     }
 }
 
