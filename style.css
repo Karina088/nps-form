@@ -1,5 +1,7 @@
-@import url(https://fonts.cdnfonts.com/css/handelgothic-tl);
+/* @import url(https://fonts.cdnfonts.com/css/handelgothic-tl); */
 @import url(https://fonts.cdnfonts.com/css/helvetica-255);
+@import url(https://fonts.googleapis.com/css?family=Almendra+Display:regular);
+
 
 * {
     padding: 0;
@@ -63,8 +65,8 @@ span {
     -ms-flex-align: center;
     align-items: center;
     -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
     padding-top: 26px;
 }
 
@@ -84,7 +86,7 @@ span {
 }
 
 .nps-header__title {
-    font-family: "HandelGothic TL", sans-serif;
+    font-family: 'Almendra Display';
     font-weight: 400;
     font-size: 55px;
     line-height: 98.49%;
@@ -94,7 +96,7 @@ span {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    letter-spacing: -0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #ffffff;
     max-width: 687px;
@@ -147,7 +149,7 @@ span {
 }
 
 .nps-form__label {
-    font-family: "Helvetica";
+    font-family: "Helvetica", sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
@@ -169,7 +171,7 @@ span {
 }
 
 .nps-form__label span {
-    font-family: "HandelGothic TL";
+    font-family: "Helvetica", sans-serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 98.49%;
