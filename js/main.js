@@ -49,13 +49,13 @@ form.addEventListener('submit', function (event) {
     //     event.preventDefault()
     // }
 
-    // if (document.querySelectorAll('.errorRadio').length == 0) {
-    //     setTimeout(function () {
-    //         modal.style.display = 'block'
-    //         location.reload()
-    //     }, 3000)
-    //     return false
-    // }
+    if (document.querySelectorAll('.errorRadio').length == 0) {
+        setTimeout(function () {
+            modal.style.display = 'block'
+            location.reload()
+        }, 3000)
+        return false
+    }
 
     if (document.querySelectorAll('.errorRadio').length == 0) {
     } else {

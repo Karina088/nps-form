@@ -1,7 +1,7 @@
 // перенаправление на главную страницу спустя 6 секунд
 function doRedirect() {
     atTime = '6000'
-    toUrl = 'http://index.html'
+    toUrl = 'https://karina088.github.io/nps-form/'
     setTimeout('location.href = toUrl;', atTime)
 }
 
