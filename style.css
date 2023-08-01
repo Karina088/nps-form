@@ -1,8 +1,5 @@
-/* @import url(https://fonts.cdnfonts.com/css/handelgothic-tl); */
 @import url(https://fonts.cdnfonts.com/css/helvetica-255);
 @import url(https://fonts.googleapis.com/css?family=Almendra+Display:regular);
-
-
 
 * {
     padding: 0;
@@ -84,11 +81,6 @@ span {
     display: flex;
     font-size: 18px;
 }
-
-/* .nps-header__logo img {
-    width: 64px;
-    height: 48px;
-} */
 
 .nps-header__brand img, .nps-header__logo img {
     width: 138px;
