@@ -1346,7 +1346,7 @@ textarea {
         position: absolute;
         display: block;
         top: 50%;
-        right: 64%;
+        right: 62.5%;
     }
 
     .nps__content {
@@ -1666,7 +1666,7 @@ textarea {
     }
 
     .nps-form__transfer::after {
-        right: 32%;
+        right: 30%;
     }
 
     .nps-form__carry {
@@ -1768,7 +1768,7 @@ textarea {
 
 @media (max-width: 329px) {
     .nps-form__transfer::after {
-        right: 31%;
+        right: 29%;
     }
 
     .nps-form__label_name::after {
