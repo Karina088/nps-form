@@ -85,12 +85,12 @@ span {
     font-size: 18px;
 }
 
-.nps-header__logo img {
+/* .nps-header__logo img {
     width: 64px;
     height: 48px;
-}
+} */
 
-.nps-header__brand img {
+.nps-header__brand img, .nps-header__logo img {
     width: 118px;
     height: 41px;
 }
