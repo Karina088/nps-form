@@ -1010,7 +1010,7 @@ textarea {
     }
 
     .nps-header__logo svg {
-        height: 47px; 
+        height: 47px;
     }
 
     .nps-header__hr {
@@ -1019,7 +1019,7 @@ textarea {
     }
 
     .nps-header__brand svg {
-        height: 30px; 
+        height: 30px;
     }
 
     .nps-header__title {
@@ -1337,7 +1337,7 @@ textarea {
         position: absolute;
         display: block;
         top: 50%;
-        right: 52%;
+        right: 64%;
     }
 
     .nps__content {
@@ -1518,7 +1518,7 @@ textarea {
     }
 
     .nps-form__transfer::after {
-        right: 50.7%;
+        right: 62%;
     }
 
     .nps-form__carry::after {
@@ -1657,7 +1657,7 @@ textarea {
     }
 
     .nps-form__transfer::after {
-        right: 36.7%;
+        right: 32%;
     }
 
     .nps-form__carry {
@@ -1759,7 +1759,7 @@ textarea {
 
 @media (max-width: 329px) {
     .nps-form__transfer::after {
-        right: 35.5%;
+        right: 31%;
     }
 
     .nps-form__label_name::after {
