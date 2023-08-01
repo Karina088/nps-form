@@ -886,16 +886,16 @@ textarea {
         margin-left: 38px;
     }
 
-    .nps-header__logo svg {
+    /* .nps-header__logo svg {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
-    }
+    } */
 
     .nps-header__brand svg {
-        display: -webkit-box;
+        /* display: -webkit-box;
         display: -ms-flexbox;
-        display: flex;
+        display: flex; */
         height: 41px;
     }
 
@@ -1503,7 +1503,7 @@ textarea {
 
     .nps-header__title {
         font-size: 25px;
-        max-width: 314px;
+        /* max-width: 314px; */
         margin: 44px 0 15px 0;
     }
 
