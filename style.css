@@ -54,7 +54,6 @@ header {
 span {
     font-size: 24px;
     line-height: 24px;
-    letter-spacing: -3%;
     color: #000000;
 }
 
@@ -1192,7 +1191,7 @@ textarea {
     }
 
     .nps-modal {
-        : url(/public/2023/img/nps-img/nps-modalMobile.svg);
+        background-image: url(/public/2023/img/nps-img/nps-modalMobile.svg);
         background-repeat: no-repeat;
         background-position: bottom right;
     }
