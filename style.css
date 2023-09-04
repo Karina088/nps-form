@@ -301,10 +301,10 @@ span {
 
 textarea {
     overflow: hidden;
-    resize: none;
+    resize: vertical;
     outline: none;
     border: 1px solid #999;
-    padding: 4px 0 6px 13px;
+    padding: 4px 13px 6px 13px;
 }
 
 #nps-formMessage {
